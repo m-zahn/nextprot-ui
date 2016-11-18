@@ -441,7 +441,7 @@ main {}
     width: 240px;
     z-index: 10;
 }
-.second-header-right {
+.responsive-md-screen.second-header-right {
     height: 50px;
     padding-left: 240px;
     z-index: 9;
@@ -643,11 +643,11 @@ li a>.number {
     content: "\f078";
 }
 */
-.right-content {
+.responsive-md-screen.right-content {
     padding: 0px;
     padding-left: 240px;
 }
-.right-content>iframe {
+.responsive-md-screen.right-content>iframe {
     margin-bottom: -5px;
 }
 
